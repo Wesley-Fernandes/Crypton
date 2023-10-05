@@ -1,0 +1,42 @@
+.LeftEllipse {
+    position: absolute;
+    z-index: -1;
+    top: -35px;
+}
+
+.StarsContainer{
+    height: 1px;
+    position: absolute;
+    width: 50%;
+    z-index: -1;
+}
+
+.TopStar{
+    position: relative;
+    left: 350px;
+    height: 35px;
+    top: 35px;
+}
+.MiddleStar{
+    position: relative;
+    left: -15px;
+    top: -350px;
+    height: 33px;
+}
+
+.BottomStar{
+    position: relative;
+    left: 500px;
+    top: -190px;
+}
+.ArrowRight{
+    transform: scale(-1);
+    -webkit-transform: scaleX(-1);
+    margin-left: 2.5rem;
+}
+
+@media screen and (max-width: 1028px){
+    .ArrowRight{
+        margin-left: 10px;
+    }
+}

@@ -1,0 +1,10 @@
+.Effects {
+  position: absolute;
+  width: 50%;
+}
+.Ellipse {
+  position: relative;
+  z-index: 10;
+  height: 1200px;
+  left: 40px;
+}

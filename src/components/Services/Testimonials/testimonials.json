@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Albert Flores",
+    "job": "Founder of GearUp",
+    "image": "albert"
+  },
+  {
+    "id": "2",
+    "name": "Leslie Alexander",
+    "job": "Co-Founder of Womenia",
+    "image": "leslie"
+  },
+  {
+    "id": "3",
+    "name": "Courtney Henry",
+    "job": "Founder of CH Beauty",
+    "image": "courtney"
+  }
+]
