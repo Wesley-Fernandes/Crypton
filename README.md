@@ -2,7 +2,7 @@
 
 <img width="1440" alt="Desktop" src="https://github.com/Wesley-Fernandes/Crypton/assets/89518536/916885db-4d0d-4352-9b87-33009a228095">
 
-Bem-vindo ao Crypton, um projeto front-end desenvolvido por desenvolvido por mim para sobre o empolgante mundo das criptomoedas. Este projeto foi inspirado no incrível design criado por Mahnoor Shakir, e os direitos de design pertencem a ela.
+Bem-vindo ao Crypton, um projeto front-end por desenvolvido por mim para sobre o empolgante mundo das criptomoedas. Este projeto foi inspirado no incrível design criado por Mahnoor Shakir, e os direitos de design pertencem a ela.
 
 ## Visão Geral
 
