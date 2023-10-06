@@ -10,9 +10,11 @@ Crypton é uma single page construída com [Next.js](https://nextjs.org/) e esti
 
 ### Implementações futuras
 
-- [] Responsividade.
-- [] Animações.
-- [] Melhorar componentes.
+- [incompleto] Responsividade - Ajustar o design para todos formatos de tela.
+- [incompleto] Animações - Deixar o design atrativo com animações.
+- [incompleto] Navbar - Ajustar jumpers para quando clicar, ir para uma determinada section.
+- [incompleto] Componentização - Melhorar estrutura de componentização.
+- [incompleto] SEO - Analisar HTML e melhorar para melhor SEO.
 
 ## Como Usar
 
